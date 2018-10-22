@@ -28,4 +28,5 @@ def generatePrimes(n):
 
 def main():
   print(generatePrimes(20))
+  
 if __name__ == '__main__': main()
